@@ -10,6 +10,6 @@ Welcome to the **Ethio Amharic Keyboard** repository. This repository contains t
 ## 📧 Contact Us  
 For any questions or concerns, feel free to reach out:  
 
-- **Email:** [support@ethiokeyboard.com](mailto:support@henoktasissa.com)  
+- **Email:** [support@henoktasissa.com](mailto:support@henoktasissa.com)  
 
 Thank you for using **Ethio Amharic Keyboard**! 🚀  
